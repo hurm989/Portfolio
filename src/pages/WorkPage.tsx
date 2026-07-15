@@ -102,7 +102,7 @@ export function WorkPage() {
               </div>
 
               <div className="flex items-start gap-3 sm:col-start-2 md:col-start-auto md:flex-col md:items-end md:gap-1 md:pt-0.5">
-                <p
+                {/* <p
                   className="font-display text-[1.75rem] leading-none font-semibold tracking-[-0.03em] md:text-[2rem]"
                   style={{ color: project.accent }}
                 >
@@ -110,7 +110,7 @@ export function WorkPage() {
                 </p>
                 <p className="max-w-[7.5rem] text-[0.68rem] leading-4 tracking-[0.1em] text-[var(--muted)] uppercase md:text-right">
                   {project.metricLabel}
-                </p>
+                </p> */}
               </div>
             </motion.article>
           </Reveal>
