@@ -32,7 +32,7 @@ export const skills = {
     "Tailwind CSS",
     "Material UI",
   ],
-  Backend: ["Node.js", "Express.js"],
+  Backend: ["Node.js", "Express.js", "Python"],
   "Payments & APIs": ["REST API integration", "Stripe API"],
   Tools: ["Git", "Jira", "Trello", "Vercel", "Netlify"],
 };
